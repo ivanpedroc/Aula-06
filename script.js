@@ -8,3 +8,4 @@ for(var i = 0; i < semana.length; i++){
 }
 
 saida.innerHTML = imprimir;
+    
